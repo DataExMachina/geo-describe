@@ -5,4 +5,7 @@ rm master.zip
 
 echo "Download weights"
 cd darknet-master/
-sudo wget https://pjreddie.com/media/files/yolov3.weights
+sudo wget https://pjreddie.com/media/files/yolov3-tiny.weights
+
+echo "Compile darknet"
+make
