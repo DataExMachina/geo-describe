@@ -2,8 +2,8 @@
 setup:
 	bash ./scripts/setup.sh
 
-darknet_setup:
-	bash ./scripts/darknet.sh
+download_yolov3_models:
+	bash ./scripts/download_models.sh
 
 jupyter:
 	bash ./scripts/jupyter.sh
