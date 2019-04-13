@@ -1,5 +1,6 @@
 #### prod ####
 picamera
+Pillow
 keras
 tensorflow
 
