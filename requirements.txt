@@ -1,8 +1,8 @@
 #### prod ####
-picamera
-Pillow
 keras
+picamera
 tensorflow
 
 #### dev ####
+matplotlib
 jupyter
