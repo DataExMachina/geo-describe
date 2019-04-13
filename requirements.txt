@@ -1,6 +1,6 @@
 #### prod ####
 picamera
-yolo34py
+keras
 
 #### dev ####
 jupyter
