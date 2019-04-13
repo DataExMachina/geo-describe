@@ -1,6 +1,7 @@
 #### prod ####
 picamera
 keras
+tensorflow
 
 #### dev ####
 jupyter
