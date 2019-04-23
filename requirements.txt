@@ -1,6 +1,10 @@
 #### prod ####
 keras
 picamera
+Pillow
+pyaml
+pynmea2
+pyserial
 tensorflow
 
 #### dev ####

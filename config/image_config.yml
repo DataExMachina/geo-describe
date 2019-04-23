@@ -1,0 +1,9 @@
+
+model:
+  labels:
+    ./models/imagenet_class_index.json
+  weights:
+    ./models/NASNet-mobile.h5
+
+buffer:
+  ./data/buffer.geojson
